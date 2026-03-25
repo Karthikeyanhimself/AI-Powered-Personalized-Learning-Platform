@@ -1,0 +1,16 @@
+# Python Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Frontend / Node
+node_modules/
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
